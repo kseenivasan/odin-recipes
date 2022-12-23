@@ -1,0 +1,29 @@
+.hyperlink {
+    background-color: yellow;
+    color: white;
+}
+
+.heading {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.list-item {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+img {
+    height: auto;
+    width: 400px;
+}
+
+.list-item.ingredients {
+    font-weight: bold;
+}
+
+.step {
+    font-weight: bolder;
+}
+.step .child {
+    color: red;
+}
